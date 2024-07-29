@@ -1,0 +1,5 @@
+(supertux-music
+  (file "granito_village.ogg")
+  (loop-begin 8.272)
+  (loop-at 107.586)
+)
