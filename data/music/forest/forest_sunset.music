@@ -1,0 +1,5 @@
+(supertux-music
+  (file "forest_sunset.ogg")
+  (loop-begin 26.670)
+  (loop-at 80.000)
+)
